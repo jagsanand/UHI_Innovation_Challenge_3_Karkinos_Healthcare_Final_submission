@@ -1,0 +1,7 @@
+Flask
+flask_paginate
+psycopg2
+pyJWT
+python-keycloak
+gunicorn
+Flask-Executor
